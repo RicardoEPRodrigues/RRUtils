@@ -6,4 +6,4 @@ From time to time I'll update this library to support more utilities and help an
 
 This is **NOT a real complete Library**, it's more of a bundle of code that was created because I need it and decided to share with everyone.
 
-*Rodrigues* Production
+*RRodrigues* Production
