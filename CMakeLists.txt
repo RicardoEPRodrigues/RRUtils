@@ -19,6 +19,7 @@ set(SOURCE_FILES
         Time/TimeCalculator.h
         Looper.cpp
         Looper.h
-        Module.h)
+        Module.h
+        StdExtras.h)
 
 add_library(RRUtils SHARED ${SOURCE_FILES})
